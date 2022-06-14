@@ -1,6 +1,4 @@
-[Прочти меня](readme.md)
-
-# Содержание
+# Содержание <img src="images/Git_logo.png" alt="drawing" width="50"/>
 
 > [Введение](Data\Bringing_in.md)
 
