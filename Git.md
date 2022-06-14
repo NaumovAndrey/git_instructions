@@ -1,6 +1,4 @@
-[Прочти меня](readme.md)
-
-# Содержание
+# Содержание <img src="images/Git_logo.png" alt="drawing" width="50"/>
 
 > [Введение](Data\Bringing_in.md)
 
@@ -17,3 +15,7 @@
 > [Просмотр истории коммитов](Data\History.md)
 
 > [Ветвление в git](Data\Branching.md)
+
+> [Работа с удалённым репозиторием](Data/remote_repositories.md)
+
+> [Таблица команд](Data/Teams.md)
