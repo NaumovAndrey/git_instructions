@@ -15,3 +15,7 @@
 > [Просмотр истории коммитов](Data\History.md)
 
 > [Ветвление в git](Data\Branching.md)
+
+> [Работа с удалённым репозиторием](Data/remote_repositories.md)
+
+> [Таблица команд](Data/Teams.md)
